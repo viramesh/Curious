@@ -1,15 +1,15 @@
 //
-//  Carousel_AppTests.swift
-//  Carousel AppTests
+//  Curious_AppTests.swift
+//  Curious AppTests
 //
-//  Created by Anuj Verma on 3/5/15.
+//  Created by Anuj Verma on 3/9/15.
 //  Copyright (c) 2015 Anuj Verma. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class Carousel_AppTests: XCTestCase {
+class Curious_AppTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Carousel App
+//  Curious App
 //
-//  Created by Anuj Verma on 3/5/15.
+//  Created by Anuj Verma on 3/9/15.
 //  Copyright (c) 2015 Anuj Verma. All rights reserved.
 //
 

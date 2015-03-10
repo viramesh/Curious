@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Carousel App.xcscheme</key>
+		<key>Curious App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2BA802FA1AA98A820054377F</key>
+		<key>2BB9A6B41AAE9A12001D5F71</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2BA8030F1AA98A820054377F</key>
+		<key>2BB9A6C91AAE9A12001D5F71</key>
 		<dict>
 			<key>primary</key>
 			<true/>
